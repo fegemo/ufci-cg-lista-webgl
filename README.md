@@ -7,10 +7,10 @@ Enunciado geral: você vai fazer 3 exercícios, cada um em sua pastinha:
 - Exercício 2: pasta `disco-quadrado`, idem
 - Exercício 3: pasta `poligono-regular`, idem
 
-Primeiramente, crie um _fork_ do repositório [fegemo/utf-cg-lista-webgl][fork].
+Primeiramente, crie um _fork_ do repositório [fegemo/ufci-cg-lista-webgl][fork].
 Assim, você terá a sua versão do código lá no Github.com. Em seguida,
 clone-o para sua máquina 
-(`git clone https://github.com/seu-user/utf-cg-lista-webgl`). Isso vai baixar
+(`git clone https://github.com/seu-user/ufci-cg-lista-webgl`). Isso vai baixar
 o repositório para seu computador. Então, trabalhe nas atividades 
 (cada uma tem sua pastinha). Ao concluir, adicione todos os arquivos
 (`git add -A`) para então fazer um _commit_ (`git commit -m "Bela mensagem"`).
@@ -18,16 +18,16 @@ Por fim, você deve fazer _upload_ das alterações do repositório de volta ao
 Github, fazendo um _push_ (`git push -u origin main`).
 
 Em seguida (ué, não era "por fim"??), vá até seu repositório no Github.com
-(visite https://github.com/seu-user/utf-cg-lista-webgl) para habilitar
+(visite https://github.com/seu-user/ufci-cg-lista-webgl) para habilitar
 o serviço Github Pages. Faça isso navegando para "Settings" (do repositório),
 depois em "Pages", e escolha o _branch_ `main`. Isso vai fazer com que 
 todos nós, a humanidade, possa acessar seu exercício navegando para
-https://seu-user.github.io/utf-cg-lista-webgl/. Não é incrível?
+https://seu-user.github.io/ufci-cg-lista-webgl/. Não é incrível?
 
 <details>
   <summary>Ativando Github Pages para seu repositório</summary>
   
-  ![](https://raw.githubusercontent.com/fegemo/utf-cg/refs/heads/main/exercises/webgl-prim/images/github-pages-config.webp)
+  ![](https://raw.githubusercontent.com/fegemo/ufci-cg/refs/heads/main/exercises/webgl-prim/images/github-pages-config.webp)
 </details>
 
 
@@ -106,10 +106,10 @@ ainda fazem com que as teclas `+` e `-` aumentem/reduzam o valor
 dessa variável. Incrível!!!
 
 [super-premium]: https://www.youtube.com/watch?v=4CooiNDnPHI
-[varias-cores]: https://fegemo.github.io/utf-cg/classes/webgl-handson/#valores-rgb-de-algumas-cores
+[varias-cores]: https://fegemo.github.io/ufci-cg/classes/webgl-handson/#valores-rgb-de-algumas-cores
 
 Você deve entregar esta atividade via **SIGAA**, apenas o link no
-formato https://seu-user.github.io/utf-cg-lista-webgl/.
+formato https://seu-user.github.io/ufci-cg-lista-webgl/.
 
 
 
